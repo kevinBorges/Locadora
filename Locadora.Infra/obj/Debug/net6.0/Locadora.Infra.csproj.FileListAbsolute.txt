@@ -1,0 +1,17 @@
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\bin\Debug\net6.0\Locadora.Infra.deps.json
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\bin\Debug\net6.0\Locadora.Infra.runtimeconfig.json
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\bin\Debug\net6.0\Locadora.Infra.dll
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\bin\Debug\net6.0\Locadora.Infra.pdb
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\bin\Debug\net6.0\Locadora.Domain.dll
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\bin\Debug\net6.0\Locadora.Domain.pdb
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\obj\Debug\net6.0\Locadora.Infra.csproj.AssemblyReference.cache
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\obj\Debug\net6.0\Locadora.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\obj\Debug\net6.0\Locadora.Infra.AssemblyInfoInputs.cache
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\obj\Debug\net6.0\Locadora.Infra.AssemblyInfo.cs
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\obj\Debug\net6.0\Locadora.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\obj\Debug\net6.0\Locadora.Infra.csproj.CopyComplete
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\obj\Debug\net6.0\Locadora.Infra.dll
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\obj\Debug\net6.0\refint\Locadora.Infra.dll
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\obj\Debug\net6.0\Locadora.Infra.pdb
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\obj\Debug\net6.0\Locadora.Infra.genruntimeconfig.cache
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Infra\obj\Debug\net6.0\ref\Locadora.Infra.dll

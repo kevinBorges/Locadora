@@ -1,0 +1,12 @@
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Domain\bin\Debug\net6.0\Locadora.Domain.deps.json
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Domain\bin\Debug\net6.0\Locadora.Domain.dll
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Domain\bin\Debug\net6.0\Locadora.Domain.pdb
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Domain\obj\Debug\net6.0\Locadora.Domain.csproj.AssemblyReference.cache
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Domain\obj\Debug\net6.0\Locadora.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Domain\obj\Debug\net6.0\Locadora.Domain.AssemblyInfoInputs.cache
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Domain\obj\Debug\net6.0\Locadora.Domain.AssemblyInfo.cs
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Domain\obj\Debug\net6.0\Locadora.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Domain\obj\Debug\net6.0\Locadora.Domain.dll
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Domain\obj\Debug\net6.0\refint\Locadora.Domain.dll
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Domain\obj\Debug\net6.0\Locadora.Domain.pdb
+C:\Projetos\LocadoraFilmes\Locadora\Locadora.Domain\obj\Debug\net6.0\ref\Locadora.Domain.dll
